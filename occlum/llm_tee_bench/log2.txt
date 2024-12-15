@@ -1,0 +1,71 @@
+[31m[2024-12-14T09:22:20.311Z][ERROR][T2][#2][ArchPrctl][syscall] Error = EINVAL (#22, Invalid argument): Unknown code for arch_prctl [line = 60, file = src/process/do_arch_prctl.rs][0m
+[31m[2024-12-14T09:22:20.326Z][ERROR][T2][#150][Readlink][syscall] Error = EINVAL (#22, Invalid argument): not a symbolic link [line = 14, file = src/fs/file_ops/symlink.rs][0m
+[31m[2024-12-14T09:22:20.389Z][ERROR][T2][#342][···Lseek][syscall] Error = ESPIPE (#29, Illegal seek): libc error [line = 430, file = src/fs/stdio.rs][0m
+[31m[2024-12-14T09:22:20.389Z][ERROR][T2][#348][···Lseek][syscall] Error = ESPIPE (#29, Illegal seek): libc error [line = 240, file = src/fs/stdio.rs][0m
+[31m[2024-12-14T09:22:20.475Z][ERROR][T2][#532][Readlink][syscall] Error = EINVAL (#22, Invalid argument): not a symbolic link [line = 14, file = src/fs/file_ops/symlink.rs][0m
+[31m[2024-12-14T09:22:22.526Z][ERROR][T3][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.526Z][ERROR][T4][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.529Z][ERROR][T6][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.529Z][ERROR][T5][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.529Z][ERROR][T8][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.529Z][ERROR][T7][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.529Z][ERROR][T10][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.530Z][ERROR][T9][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.530Z][ERROR][T11][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.530Z][ERROR][T12][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.531Z][ERROR][T13][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.531Z][ERROR][T14][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.531Z][ERROR][T15][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.531Z][ERROR][T16][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.531Z][ERROR][T17][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.532Z][ERROR][T18][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.532Z][ERROR][T19][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.532Z][ERROR][T20][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.532Z][ERROR][T21][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.532Z][ERROR][T22][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.533Z][ERROR][T23][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.533Z][ERROR][T24][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.533Z][ERROR][T25][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.533Z][ERROR][T26][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.534Z][ERROR][T27][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.534Z][ERROR][T28][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.534Z][ERROR][T29][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.534Z][ERROR][T30][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.534Z][ERROR][T31][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.535Z][ERROR][T32][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.535Z][ERROR][T33][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.535Z][ERROR][T34][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.535Z][ERROR][T35][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.536Z][ERROR][T36][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.536Z][ERROR][T37][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.536Z][ERROR][T38][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.538Z][ERROR][T40][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.538Z][ERROR][T39][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.538Z][ERROR][T41][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.539Z][ERROR][T42][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.539Z][ERROR][T43][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.539Z][ERROR][T44][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.540Z][ERROR][T45][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.540Z][ERROR][T46][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.541Z][ERROR][T47][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.541Z][ERROR][T48][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.542Z][ERROR][T49][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.542Z][ERROR][T50][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.542Z][ERROR][T51][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.543Z][ERROR][T52][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.543Z][ERROR][T53][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.544Z][ERROR][T54][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.544Z][ERROR][T55][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.544Z][ERROR][T56][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.544Z][ERROR][T57][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.545Z][ERROR][T58][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.545Z][ERROR][T59][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.546Z][ERROR][T60][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.546Z][ERROR][T62][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.546Z][ERROR][T63][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.547Z][ERROR][T64][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.547Z][ERROR][T61][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:22.548Z][ERROR][T65][#3][···Mbind][syscall] Error = ENOSYS (#38, Function not implemented): Unimplemented or unknown syscall [line = 1046, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:25.419Z][ERROR][T2][#42464][Getrandom][syscall] Error = EINVAL (#22, Invalid argument): invalid flags [line = 917, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:25.697Z][ERROR][T2][#44887][Getrandom][syscall] Error = EINVAL (#22, Invalid argument): invalid flags [line = 917, file = src/syscall/mod.rs][0m
+[31m[2024-12-14T09:22:25.984Z][ERROR][T2][#49381][SchedGetaffinity][syscall] Error = EINVAL (#22, Invalid argument): buf size is not big enough [line = 16, file = src/sched/syscalls.rs][0m
